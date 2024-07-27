@@ -8,7 +8,7 @@ SCREEN_WIDTH_i = 640
 SCREEN_HEIGHT_i = 360
 # inventory_screen = pg.display.set_mode((SCREEN_WIDTH_i, SCREEN_HEIGHT_i))
 # i will figure hoe to draw another screen on top later
-inventor_screen = pg.Rect(320,180, SCREEN_WIDTH_i, SCREEN_HEIGHT_i)
+inventor_screen = pg.Rect(320, 180, SCREEN_WIDTH_i, SCREEN_HEIGHT_i)
 
 
 # main screen
